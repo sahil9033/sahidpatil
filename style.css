@@ -230,6 +230,17 @@ nav.scrolled {
     font-family: 'Playfair Display', serif;
     font-size: 1.3rem; font-weight: 700;
     color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid var(--glass-border);
 }
 
 .brand .accent { color: var(--accent); }
