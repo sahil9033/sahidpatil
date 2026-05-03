@@ -1,8 +1,8 @@
 # Robots.txt for Sahil Patil Portfolio
-# https://sahildpatil.netlify.app/
+# https://sahidpatil.onrender.com/
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://sahildpatil.netlify.app/sitemap.xml
+Sitemap: https://sahidpatil.onrender.com/sitemap.xml
